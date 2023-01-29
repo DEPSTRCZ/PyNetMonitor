@@ -1,0 +1,13 @@
+Year,Date,Time,Ping,Jitter,Download,Upload,Server,Country
+2023,29.01,20:05,9.82,1.78,37.09,5.52,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:06,12.45,1.48,41.18,7.01,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:07,9.45,0.46,39.18,7.35,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:08,8.55,0.33,41.24,6.82,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:09,9.82,2.82,41.53,6.74,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:10,8.55,1.14,41.81,7.19,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:11,16.18,1.73,40.36,7.59,http://fra.speedtest.clouvider.net/backend,Frankfurt
+2023,29.01,20:12,8.09,0.38,41.31,7.39,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:13,9.09,1.45,42.04,7.42,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:15,8.09,0.09,41.11,7.45,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:20,8.55,1.63,40.99,7.51,http://speedtest.cesnet.cz,Prague
+2023,29.01,20:22,7.91,0.24,40.99,7.29,http://speedtest.cesnet.cz,Prague
