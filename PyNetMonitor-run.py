@@ -26,7 +26,7 @@ cprint("● LibreSpeed-CLI repo & Source Code: https://github.com/librespeed/spe
 cprint("● LibreSpeed-CLI Licence: https://raw.githubusercontent.com/librespeed/speedtest-cli/master/LICENSE","dark_grey")
 cprint("● Tool is under GPL-3.0 license! (https://raw.githubusercontent.com/DEPSTRCZ/PyNetMonitor/main/LICENSE)","dark_grey")
 cprint("● Tool: © Jiří Edelmann | © DEPSTRCZ","dark_grey")
-cprint("● Notice:\n   This tool is built around the LibreSpeed-CLI!\n   Uses their latest release depending on the target system.\n   The LibreSpeed-CLI is not mine and it is a program developed by LibreSpeed.\n   This is only Tool/Script to capture the output of it in interval to csv file.","dark_grey")
+cprint("● Notice:\n   ●This tool is built around the LibreSpeed-CLI!\n   ●Uses their latest release depending on the target system.\n   ●The LibreSpeed-CLI is not mine and it is a program developed by LibreSpeed.\n   ●This is only Tool/Script to capture the output of it in interval to csv file.\n   ●This tool is not associated with LibreSpeed Organization!\n   ●Tool is under GPL-3.0 license! (https://raw.githubusercontent.com/DEPSTRCZ/PyNetMonitor/main/LICENSE)","dark_grey")
 
 cprint("Initializing...","yellow")
 
