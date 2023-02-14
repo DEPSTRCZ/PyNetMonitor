@@ -19,6 +19,7 @@
   > - Python knowledge required!
   > - Python3
   > - Pip
+  >
   > Dependencies:
   > - apscheduler
   > - termcolor
