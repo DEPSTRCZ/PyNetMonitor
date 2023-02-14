@@ -55,7 +55,7 @@ def SpeedTestInterval():
     date = dateobject.date().strftime("%d.%m")
     time = dateobject.time().strftime("%H:%M")
 
-    run = subprocess.run(["librespeed-cli","--json"],capture_output=True)
+    run = subprocess.run(["./librespeed-cli","--json"],capture_output=True)
 
     if (run.stderr):
         rows = [year,date,time,"X","X","X","X","Unreachable"]
