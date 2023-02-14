@@ -16,9 +16,13 @@
   > Capture Download, Upload, Jitter, Ping
 
 ## 🚩 Requirements
-  > Python knowledge required!
-  > Python3
-  > Pip
+  > - Python knowledge required!
+  > - Python3
+  > - Pip
+  > Dependencies:
+  > - apscheduler
+  > - termcolor
+  > - ping3
 
 
 ## 📖 How to use
