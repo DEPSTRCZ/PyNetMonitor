@@ -6,6 +6,7 @@ import os
 import ping3
 import datetime
 import json
+import sys
 ping3.EXCEPTIONS = True
 # CONFIG SECTION!
 # CONFIG SECTION!
@@ -92,14 +93,11 @@ def PingCheckInterval():
     writerows("PingCheck.csv",rows)
 
 if SpeedTest_interval < 120:
-    cprint("ERROR: SpeedTest_Interval(Config) must be bigger than 120!","red")
-    quit()
+    sys.exit(cprint("ERROR: SpeedTest_Interval(Config) must be bigger than 120!","red"))
 elif host_interval < 10:
-    cprint("ERROR: host_interval(Config) must be bigger than 10!","red")
-    quit()
+    sys.exit(cprint("ERROR: host_interval(Config) must be bigger than 10!","red"))
 if host == "" and SpeedTest == False:
-    cprint("ERROR: Both config options are disabled! Enable atleast one!","red")
-    quit()
+    sys.exit(cprint("ERROR: Both config options are disabled! Enable atleast one!","red"))
 elif host and SpeedTest == True:
     cprint("Both monitors started!","green")
     init("SpeedTest.csv",headers_speedtest)
